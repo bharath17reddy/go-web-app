@@ -19,3 +19,7 @@ COPY --from=base /app/static ./static
 EXPOSE 8080
 
 CMD ["./main"]
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0de0c2a55547ae0c77c913a8d5a172d89b543c1c
